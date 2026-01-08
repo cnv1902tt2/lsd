@@ -1,0 +1,638 @@
+{
+  "total_questions": 26,
+  "questions": [
+    {
+      "original_number": "56",
+      "id": "321305882",
+      "number": "1",
+      "question": "Hội nghị Trung ương 6 khóa X (1-2008) của Đảng đã đưa ra chủ trương về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Tăng cường sự lãnh đạo của Đảng đối với công tác đấu tranh phòng, chống tham nhũng, lãng phí"
+        },
+        {
+          "label": "B",
+          "text": "Xác định công tác tôn giáo là vấn đề chiến lược có ý nghĩa rất quan trọng"
+        },
+        {
+          "label": "C",
+          "text": "Tiếp tục hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa"
+        },
+        {
+          "label": "D",
+          "text": "Phát huy sức mạnh đại đoàn kết toàn dân tộc"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "57",
+      "id": "321305883",
+      "number": "2",
+      "question": "Hội nghị Trung ương 5 khóa X (7-2007) của Đảng đã đưa ra chủ trương về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Tăng cường công tác kiểm tra, giám sát của Đảng"
+        },
+        {
+          "label": "B",
+          "text": "Xác định công tác tôn giáo là vấn đề chiến lược có ý nghĩa rất quan trọng"
+        },
+        {
+          "label": "C",
+          "text": "Tăng cường sự lãnh đạo của Đảng đối với công tác đấu tranh phòng, chống tham nhũng, lãng phí"
+        },
+        {
+          "label": "D",
+          "text": "Phát huy sức mạnh đại đoàn kết toàn dân tộc"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "58",
+      "id": "321305884",
+      "number": "3",
+      "question": "Hội nghị Trung ương nào của Đảng đã ban hành Nghị quyết về xây dựng giai cấp công nhân trong thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 6, khóa X (8-2007)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 2 khóa VIII (12-1996)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 8 (7-2003)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 7 (3-2003)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "59",
+      "id": "321305885",
+      "number": "4",
+      "question": "Hội nghị Trung ương nào của Đảng đã ban hành Nghị quyết về xây dựng đội ngũ trí thức trong thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước và hội nhập kinh tế quốc tế?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 7, khóa X (7-2008)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 2 khóa VIII (12-1996)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 8 (7-2003)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 6, khóa X (8-2007)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "60",
+      "id": "321305886",
+      "number": "5",
+      "question": "Cuộc vận động “Học tập và làm theo tấm gương đạo đức Hồ Chí Minh” trong toàn Đảng, toàn dân được Bộ Chính trị bắt đầu tổ chức vào thời gian nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Tháng 11-2006"
+        },
+        {
+          "label": "B",
+          "text": "Tháng 11-2007"
+        },
+        {
+          "label": "C",
+          "text": "Tháng 11-2008"
+        },
+        {
+          "label": "D",
+          "text": "Tháng 11-2009"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "61",
+      "id": "321305887",
+      "number": "6",
+      "question": "Đại hội nào của Đảng diễn ra trong bối cảnh tình hình thế giới tiếp tục diễn biến phức tạp, hòa bình, hợp tác và phát triển vẫn là xu thế lớn, nhưng chiến tranh cục bộ, xung đột vũ trang, khủng bố, tranh chấp lãnh thổ diễn biến phức tạp?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ XI (1/2011)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ X (4/2006)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "62",
+      "id": "321305888",
+      "number": "7",
+      "question": "Đại hội nào của Đảng đã đưa ra Chiến lược phát triển kinh tế-xã hội 2011-2020?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ XI (1/2011)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ X (4/2006)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "63",
+      "id": "321305889",
+      "number": "8",
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) có bổ sung thêm hai đặc trưng nào về mô hình chủ nghĩa xã hội ở nước ta?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "“Dân giàu, nước mạnh, dân chủ, công bằng, văn minh”; “có Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo”"
+        },
+        {
+          "label": "B",
+          "text": "“Dân giàu, nước mạnh, dân chủ, công bằng, văn minh”; “có Nhà nước pháp quyền xã hội chủ nghĩa”"
+        },
+        {
+          "label": "C",
+          "text": "“Do nhân dân làm chủ”; “Dân giàu, nước mạnh, dân chủ, công bằng, văn minh”"
+        },
+        {
+          "label": "D",
+          "text": "“Do nhân dân làm chủ”; “Con người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện”"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "64",
+      "id": "321305890",
+      "number": "9",
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) chỉ rõ bao nhiêu phương hướng cơ bản xây dựng chủ nghĩa xã hội ở nước ta?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "8 phương hướng"
+        },
+        {
+          "label": "B",
+          "text": "6 phương hướng"
+        },
+        {
+          "label": "C",
+          "text": "7 phương hướng"
+        },
+        {
+          "label": "D",
+          "text": "5 phương hướng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "65",
+      "id": "321305891",
+      "number": "10",
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) chỉ rõ phương hướng cơ bản xây dựng chủ nghĩa xã hội ở nước ta: đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước gắn với nhiệm vụ nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường"
+        },
+        {
+          "label": "B",
+          "text": "Phát triển kinh tế tri thức"
+        },
+        {
+          "label": "C",
+          "text": "Bảo vệ tài nguyên, môi trường"
+        },
+        {
+          "label": "D",
+          "text": "Kinh tế thị trường định hướng xã hội chủ nghĩa"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "66",
+      "id": "321305892",
+      "number": "11",
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) đã bổ sung cần nắm vững và giải quyết tốt bao nhiêu mối quan hệ lớn?",
+      "answers": [],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "67",
+      "id": "321305893",
+      "number": "12",
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) xác định phương châm đối ngoại của Đảng có nội dung như thế nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Thực hiện nhất quán đường lối đối ngoại độc lập, tự chủ, hòa bình, hợp tác và phát triển; đa phương hóa, đa dạng hóa quan hệ, chủ động và tích cực hội nhập quốc tế; là bạn, đối tác tin cậy và thành viên có trách nhiệm trong cộng đồng quốc tế"
+        },
+        {
+          "label": "B",
+          "text": "Việt Nam muốn là bạn của tất cả các nước trong cộng đồng quốc tế, phấn đấu vì hòa bình, độc lập và phát triển"
+        },
+        {
+          "label": "C",
+          "text": "Việt Nam sẵn sàng là bạn của tất cả các nước trong cộng đồng quốc tế, phấn đấu vì hòa bình, độc lập và phát triển"
+        },
+        {
+          "label": "D",
+          "text": "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của tất cả các nước trong cộng đồng quốc tế, phấn đấu vì hòa bình, độc lập và phát triển"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "68",
+      "id": "321305894",
+      "number": "13",
+      "question": "Mặt trận Tổ quốc Việt Nam, các đoàn thể nhân dân có vai trò như thế nào trong hệ thống chính trị của Việt Nam?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Có vai trò rất quan trọng trong sự nghiệp đại đoàn kết toàn dân tộc xây dựng và bảo vệ Tổ quốc"
+        },
+        {
+          "label": "B",
+          "text": "Có vai trò xây dựng và phát triển kinh tế thị trường định hướng xã hội chủ nghĩa"
+        },
+        {
+          "label": "C",
+          "text": "Có vai trò trong xây dựng và phát triển văn hóa"
+        },
+        {
+          "label": "D",
+          "text": "Có vai trò xây dựng chính sách phát triển đất nước"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "69",
+      "id": "321305895",
+      "number": "14",
+      "question": "Đảng Cộng sản Việt Nam có vị trí như thế nào trong hệ thống chính trị của Việt Nam?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đảng lãnh đạo hệ thống chính trị, đồng thời là bộ phận của hệ thống ấy"
+        },
+        {
+          "label": "B",
+          "text": "Đảng lãnh đạo hệ thống chính trị"
+        },
+        {
+          "label": "C",
+          "text": "Đảng là bộ phận của hệ thống chính trị"
+        },
+        {
+          "label": "D",
+          "text": "Đảng không nằm trong hệ thống chính trị"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "70",
+      "id": "321305896",
+      "number": "15",
+      "question": "Hội nghị Trung ương 4 (1-2012) của Đảng đưa ra chủ trương về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Xây dựng hệ thống kết cấu hạ tầng đồng bộ nhằm đưa nước ta cơ bản trở thành nước công nghiệp theo hướng hiện đại vào năm 2020"
+        },
+        {
+          "label": "B",
+          "text": "Xác định công tác tôn giáo là vấn đề chiến lược có ý nghĩa rất quan trọng"
+        },
+        {
+          "label": "C",
+          "text": "Tăng cường sự lãnh đạo của Đảng đối với công tác đấu tranh phòng, chống tham nhũng, lãng phí"
+        },
+        {
+          "label": "D",
+          "text": "Phát huy sức mạnh đại đoàn kết toàn dân tộc"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "71",
+      "id": "321305897",
+      "number": "16",
+      "question": "Hội nghị Trung ương 6, khóa X (5-2012) của Đảng đưa ra chủ trương về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Ban hành Kết luận về tiếp tục sắp xếp, đổi mới, nâng cao hiệu quả doanh nghiệp nhà nước"
+        },
+        {
+          "label": "B",
+          "text": "Xây dựng hệ thống kết cấu hạ tầng đồng bộ nhằm đưa nước ta cơ bản trở thành nước công nghiệp theo hướng hiện đại vào năm 2020"
+        },
+        {
+          "label": "C",
+          "text": "Tăng cường sự lãnh đạo của Đảng đối với công tác đấu tranh phòng, chống tham nhũng, lãng phí"
+        },
+        {
+          "label": "D",
+          "text": "Phát huy sức mạnh đại đoàn kết toàn dân tộc"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "72",
+      "id": "321305898",
+      "number": "17",
+      "question": "Nghị quyết về phát triển khoa học và công nghệ phục vụ sự nghiệp công nghiệp hóa, hiện đại hóa trong điều kiện kinh tế thị trường định hướng xã hội chủ nghĩa và hội nhập quốc tế được ban hành tại cuộc họp nào của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 6, khóa XI (10-2012)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 7, khóa X (7-2008)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 8 (7-2003)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 6, khóa X (8-2007)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "73",
+      "id": "321305899",
+      "number": "18",
+      "question": "Nghị quyết về chủ động ứng phó với biến đổi khí hậu, tăng cường quản lý tài nguyên và bảo vệ môi trường được ban hành tại cuộc họp nào của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 7, khóa XI (6-2016)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 7, khóa X (7-2008)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 6, khóa XI (10-2012)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 6, khóa X (8-2007)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "74",
+      "id": "321305900",
+      "number": "19",
+      "question": "Đại hội nào của Đảng diễn ra trong bối cảnh tình hình thế giới, khu vực diễn biến nhanh, rất phức tạp, khó lường. Đất nước qua 30 năm đổi mới, thế và lực tăng lên rõ rệt, có cả những thuận lợi, thời cơ đan xen với những khó khăn, thách thức gay gắt?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ XII (1/2016)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ XI (1/2011)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ X (4/2006)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "75",
+      "id": "321305901",
+      "number": "20",
+      "question": "Đại hội nào của Đảng được đánh giá là Đại hội “Đoàn kết-Dân chủ-Kỷ cương-Đổi mới”?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ XII (1/2016)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ XI (1/2011)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ X (4/2006)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "76",
+      "id": "321305902",
+      "number": "21",
+      "question": "Nghị quyết về tiếp tục đổi mới mô hình tăng trưởng, nâng cao chất lượng tăng trưởng, năng suất lao động và sức cạnh tranh của nền kinh tế được ban hành tại cuộc họp nào của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 4, khóa XII (10-2016)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 7, khóa XI (6-2016)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 6, khóa XI (10-2012)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 6, khóa X (8-2007)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "77",
+      "id": "321305903",
+      "number": "22",
+      "question": "Hội nghị Trung ương 5 (5-2017) khóa XII của Đảng đưa ra chủ trương về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Tiếp tục hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa"
+        },
+        {
+          "label": "B",
+          "text": "Xây dựng hệ thống kết cấu hạ tầng đồng bộ nhằm đưa nước ta cơ bản trở thành nước công nghiệp theo hướng hiện đại vào năm 2020"
+        },
+        {
+          "label": "C",
+          "text": "Tăng cường sự lãnh đạo của Đảng đối với công tác đấu tranh phòng, chống tham nhũng, lãng phí"
+        },
+        {
+          "label": "D",
+          "text": "Phát huy sức mạnh đại đoàn kết toàn dân tộc"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "78",
+      "id": "321305904",
+      "number": "23",
+      "question": "Chủ trương phát triển kinh tế tư nhân trở thành một động lực quan trọng của nền kinh tế thị trường định hướng xã hội chủ nghĩa được đưa ra tại cuộc họp nào của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 5, khóa XII (5-2017)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 7, khóa XI (6-2016)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 6, khóa XI (10-2012)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 6, khóa X (8-2007)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "79",
+      "id": "321305905",
+      "number": "24",
+      "question": "Chiến lược phát triển bền vững kinh tế biển Việt Nam đến năm 2030, tầm nhìn đến năm 2045 được đưa ra tại cuộc họp nào của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 8, khóa XII (10-2018)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 7, khóa XI (6-2016)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 6, khóa XI (10-2012)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 5, khóa XII (5-2017)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "80",
+      "id": "321305906",
+      "number": "25",
+      "question": "Việt Nam gia nhập tổ chức Hợp tác kinh tế Châu Á-Thái Bình Dương (APEC) vào thời gian nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Ngày 14-11-1998"
+        },
+        {
+          "label": "B",
+          "text": "Ngày 14-11-1995"
+        },
+        {
+          "label": "C",
+          "text": "Ngày 14-11-1996"
+        },
+        {
+          "label": "D",
+          "text": "Ngày 14-11-1997"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "81",
+      "id": "321305907",
+      "number": "26",
+      "question": "Việt Nam tham gia Diễn đàn kinh tế Á-Âu (ASEM) vào thời gian nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Năm 1996"
+        },
+        {
+          "label": "B",
+          "text": "Năm 1995"
+        },
+        {
+          "label": "C",
+          "text": "Năm 1998"
+        },
+        {
+          "label": "D",
+          "text": "Năm 1997"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

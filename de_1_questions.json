@@ -1,0 +1,951 @@
+{
+  "total_questions": 38,
+  "questions": [
+    {
+      "original_number": "1",
+      "id": "322505332",
+      "number": "1",
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) chỉ rõ bao nhiêu phương hướng cơ bản xây dựng chủ nghĩa xã hội ở nước ta?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "5 phương hướng"
+        },
+        {
+          "label": "B",
+          "text": "8 phương hướng"
+        },
+        {
+          "label": "C",
+          "text": "6 phương hướng"
+        },
+        {
+          "label": "D",
+          "text": "7 phương hương"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "2",
+      "id": "322505333",
+      "number": "2",
+      "question": "Hội nghị Trung ương 4 khóa VIII (12-1997) của Đảng đã bầu đồng chí nào giữ chức vụ Tổng Bí thư?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đồng chí Đỗ Mười"
+        },
+        {
+          "label": "B",
+          "text": "Đồng chí Nguyễn Mạnh Cầm"
+        },
+        {
+          "label": "C",
+          "text": "Đồng chí Lê Khả Phiêu"
+        },
+        {
+          "label": "D",
+          "text": "Đồng chí Nông Đức Mạnh"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "3",
+      "id": "322505334",
+      "number": "3",
+      "question": "Theo quan điểm của Đại hội Đảng toàn quốc lần thứ VIII (1996), nên tảng và động lực của công nghiệp hóa, hiện đại hóa đất nước là gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Khoa học và công nghệ"
+        },
+        {
+          "label": "B",
+          "text": "Giáo dục"
+        },
+        {
+          "label": "C",
+          "text": "Lương thực, thực phẩm; hàng tiêu dùng và hàng xuất khẩu"
+        },
+        {
+          "label": "D",
+          "text": "Công nghiệp nặng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "4",
+      "id": "322505335",
+      "number": "4",
+      "question": "Tại Hội nghị nào của Đảng lần đầu tiên khẳng định xây dựng Nhà nước pháp quyền Việt Nam của nhân dân, do nhân dân, vì nhân dân?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 3 (6-1992)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 6 (Khóa VI) (12-1989)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị giữa nhiệm kỳ (1-1994)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 8 (Khóa VI) (12-1990)<br>long (Khoa VI) (12-1990)"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "5",
+      "id": "322505336",
+      "number": "5",
+      "question": "Tính chất của Cách mạng Tháng Tám năm 1945 là gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Là cuộc cách mạng của dân, do dân, vì dân"
+        },
+        {
+          "label": "B",
+          "text": "Là cuộc cách mạng tư sản dân quyền làm hai nhiệm vụ điện địa và phản đề"
+        },
+        {
+          "label": "C",
+          "text": "Là một cuộc cách mạng tư sản dân quyền kiểu mới"
+        },
+        {
+          "label": "D",
+          "text": "Một cuộc cách mạng giải phóng dân tộc mang tính chất dân chủ mới. Nó là một bộ phận khăng khít của cách mạng dân tộc dân chủ nhân dân Việt Nam"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "6",
+      "id": "322505337",
+      "number": "6",
+      "question": "Chỉ thị 100 CT/TW của ban Bí thư Trung ương Đảng (1-1981) đưa ra chủ trương nào sau đây?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Phát huy quyền sản xuất kinh doanh của các xí nghiệp quốc doanh"
+        },
+        {
+          "label": "B",
+          "text": "Mở rộng hình thức trả lương khoán, lương sản phẩm"
+        },
+        {
+          "label": "C",
+          "text": "Khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp"
+        },
+        {
+          "label": "D",
+          "text": "Cải tiến công công tác phân phối lưu thông"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "7",
+      "id": "322505338",
+      "number": "7",
+      "question": "Chính cương Đảng Lao động Việt Nam (2/1951) xác định đối tượng phụ của cách mạng Việt Nam là ai?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Địa chủ."
+        },
+        {
+          "label": "B",
+          "text": "Thực dân Pháp và phong kiến."
+        },
+        {
+          "label": "C",
+          "text": "Phong kiến (phong kiến phản động)"
+        },
+        {
+          "label": "D",
+          "text": "Tư sản"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "8",
+      "id": "322505339",
+      "number": "8",
+      "question": "Cương lĩnh chính trị đầu tiên của Đảng đã xác định nhiệm vụ chủ yếu của trước mặt của cách mạng Việt Nam là gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đảng có vững cách mạng mới thành công."
+        },
+        {
+          "label": "B",
+          "text": "Đánh đổ đế quốc chủ nghĩa Pháp và bọn phong kiến, làm cho nước Việt Nam hoàn toàn độc lập."
+        },
+        {
+          "label": "C",
+          "text": "Tư sản dân quyền cách mạng là thời kỳ dự bị để làm xã hội cách mạng."
+        },
+        {
+          "label": "D",
+          "text": "Chỉ có giải phóng giai cấp vô sản thì mới giải phóng được dân tộc."
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "9",
+      "id": "322505340",
+      "number": "9",
+      "question": "Nghị quyết tăng cường công tác bảo vệ, chăm sóc và nâng cao sức khoẻ nhân dân trong tình hình mới và Nghị quyết về công tác dân số trong tình hình mới được đưa ra tại cuộc họp nào của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 6 khoá XII (10-2017)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 7 khóa XI (6-2016)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 6, khóa XI (10-2012)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 5, khóa XII (5-2017)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "10",
+      "id": "322505341",
+      "number": "10",
+      "question": "Chính sách “chia để trị” của thực dân Pháp ở nước ta nhâm mục đích gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đầy nhanh quá trình khai thác thuộc địa"
+        },
+        {
+          "label": "B",
+          "text": "Biển nền kinh tế Việt Nam phụ thuộc hoàn toàn vào Pháp"
+        },
+        {
+          "label": "C",
+          "text": "Biển nước ta thành thuộc địa kiểu mới của Pháp"
+        },
+        {
+          "label": "D",
+          "text": "Nhâm phá vỡ khối đoàn kết cộng đồng quốc gia dân tộc"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "11",
+      "id": "322505342",
+      "number": "11",
+      "question": "Đại hội Đại biểu toàn quốc lần thứ VI (12/1986) của Đảng đã đề ra đường lối đồi mới toàn diện, trong đó trọng tâm là đồi mới và lĩnh vực nào ?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Kinh tế"
+        },
+        {
+          "label": "B",
+          "text": "xã hội"
+        },
+        {
+          "label": "C",
+          "text": "Văn hóa"
+        },
+        {
+          "label": "D",
+          "text": "Chính trị"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "12",
+      "id": "322505343",
+      "number": "12",
+      "question": "Hội nghị cán bộ Đảng bộ Nam Bộ họp tại Thiên Hộ, Cái Bè (Mỹ Tho), ngày 25/10/1945 đã quyết định nội dung nào sau đây?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Chống thực dân Pháp xâm lược, cùng cổ chính quyền, bầu cử Quốc hội, xây dựng lực lượng vũ trang, xóa nạn mù chữ."
+        },
+        {
+          "label": "B",
+          "text": "Cùng cổ chính quyền, bài trừ nội phản, chống đói, chống thực dân Pháp xâm lược."
+        },
+        {
+          "label": "C",
+          "text": "Tổ chức và phát động toàn dân kháng chiến, kiên quyết đấy lùi cuộc tấn quân của quân Pháp, ngăn chặn bước tiên của chúng."
+        },
+        {
+          "label": "D",
+          "text": "Cùng cổ chính quyền, chống thực dân Pháp xâm lược, bài trừ nội phản, cải thiện đời săng cho nhân dân."
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "13",
+      "id": "322505344",
+      "number": "13",
+      "question": "Chiến lược phát triển bền vững kinh tế biển Việt Nam đến năm 2030, tầm nhìn đến năm 2045 được đưa ra tại cuộc họp nào của Đáng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 8 khóa XII (10-2018)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 5, khóa XII (5-2017)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 7 khóa XI (6-2016)<br>A. Hội nghị Trung ương 6, khóa XI (10-2012)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "14",
+      "id": "322505345",
+      "number": "14",
+      "question": "Hội nghị lần thứ 18 Ban Chấp hành Trung ương Đảng (1/1970) và Hội nghị Bộ Chính trị (6/1970) đã đề ra chủ trương mới nhằm chống lại chiến lược \"Việt Nam hóa chiến tranh\", là nội dung nào sau đây?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Lấy nông thôn và rừng núi làm hương tiến công chính, tập trung ngăn chặn và đẩy lùi chương trình \"bình định\" của địch."
+        },
+        {
+          "label": "B",
+          "text": "Lấy nông thôn làm hướng tiến công chính, tập trung ngăn chặn và đẩy lùi chương trình \"bình đị<br>nh\" của địch."
+        },
+        {
+          "label": "C",
+          "text": "Lấy đô thị làm hướng tiến công chính, tập trung ngăn chặn và đẩy lùi chương trình \"bình định\" của địch."
+        },
+        {
+          "label": "D",
+          "text": "Lấy rừng núi làm hương tiến công chính, tập trung ngăn chặn và đấy lùi chương trình \"bình định\" của địch."
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "15",
+      "id": "322505346",
+      "number": "15",
+      "question": "Hội nghị Trung ương 2 (4/1987) của Đảng đưa ra chủ trương về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Trao quyền tự chủ cho các doanh nghiệp."
+        },
+        {
+          "label": "B",
+          "text": "Phân tích tình hình các nước xã hội chủ nghĩa, sự phá hoại của chủ nghĩa đế quốc, đề ra nhiệm vụ của Đàng ta."
+        },
+        {
+          "label": "C",
+          "text": "Khoán sản phẩm cuối cùng đến nhóm hộ và hộ xã viên,"
+        },
+        {
+          "label": "D",
+          "text": "Đề ra những chủ trương, biện pháp cấp bách về phân phối lưu thông, thực hiện bốn giảm."
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "16",
+      "id": "322505347",
+      "number": "16",
+      "question": "Nghị quyết số 07 của Bộ Chính trị ban hành ngày 17-11-1993 đưa ra chủ trương về vần đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Xây dựng Đảng về chính trị và tư tưởng; chính đồn Đàng về tổ chức, tạo bước chuyển biến quan trọng và công tác ca"
+        },
+        {
+          "label": "B",
+          "text": "Phát triển công nghiệp, công nghệ và xây dựng giai cấp công nhân trong giai đoạn mới."
+        },
+        {
+          "label": "C",
+          "text": "Đại đoàn kết dân tộc và tăng cường Mặt trận Dân tộc thống nhất"
+        },
+        {
+          "label": "D",
+          "text": "Cùng có quốc phòng an ninh, mở rộng quan hệ đối ngoại, đổi mới và chính dồn Đáng"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "17",
+      "id": "322505348",
+      "number": "17",
+      "question": "Uỷ ban dân tộc giải phóng được thành lập do ai làm chủ tịch?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hồ Chí Minh"
+        },
+        {
+          "label": "B",
+          "text": "Võ Nguyên Giáp"
+        },
+        {
+          "label": "C",
+          "text": "Trường Chinh"
+        },
+        {
+          "label": "D",
+          "text": "Phạm Văn Đồng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "18",
+      "id": "322505349",
+      "number": "18",
+      "question": "Chiến lược phát triển kinh tế - xã hội 2001 - 2010 được Đảng thông qua tại Đại hội đại biểu toàn quốc lần thứ mấy?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ X (4/2006)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "19",
+      "id": "322505350",
+      "number": "19",
+      "question": "Hội nghị Trung ương 4 (1-2012) của Đảng đưa ra chủ trương vấn về đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Xác định công tác tôn giáo là vấn đề chiến lược có ý nghĩa rất quan trọng"
+        },
+        {
+          "label": "B",
+          "text": "Chủ trương tăng cường sự lãnh đạo của Đảng đối với công tác đấu tranh phòng, chống tham nhũng, lãng phí"
+        },
+        {
+          "label": "C",
+          "text": "Chủ trương xây dựng hệ thống kết cấu hạ tầng đồng bộ nhằm đưa nước ta cơ bản trở thành nước công nghiệp theo hướng hiện đại vào năm 2020"
+        },
+        {
+          "label": "D",
+          "text": "Phát huy sức mạnh đại đoàn kết toàn dân tộc"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "20",
+      "id": "322505351",
+      "number": "20",
+      "question": "Đại hội Đại biểu toàn quốc lần thứ VIII (6/1996) của Đáng nêu ra bao nhiêu bài học chủ yếu qua 10 năm đổi mới?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "6 bài học"
+        },
+        {
+          "label": "B",
+          "text": "7 bài học"
+        },
+        {
+          "label": "C",
+          "text": "4 bài học"
+        },
+        {
+          "label": "D",
+          "text": "5 bài học"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "21",
+      "id": "322505352",
+      "number": "21",
+      "question": "Đại hội nào của Đảng được đánh giá là Đại hội \"Đoàn kết - Dân chủ - Kỷ cương - Đổi mới\"?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ XII (1/2016)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ X (4/2006)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ XI (1/2011)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "22",
+      "id": "322505353",
+      "number": "22",
+      "question": "Hội nghị nào của Ban Chấp hành Trung ương Đảng (khóa II) đã đề ra kế hoạch ba năm phát triển kinh tế, văn hóa và cải tạo xã hội chủ nghĩa đối với kinh tế cá thể và kinh tế tư bản tư doanh (1958-1960) ở miền Bắc?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị lần thứ 16 (Tháng 4/1959)."
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị lần thứ 14 (Tháng 11/1958)."
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị lần thứ 10 (Tháng 9/1956)."
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị lần thứ 13 (Tháng 12/1957)."
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "23",
+      "id": "322505354",
+      "number": "23",
+      "question": "Mặt trận Tổ quốc Việt Nam, các đoàn thể nhân dân có vai trò như thế nào trong hệ thống chính trị của Việt Nam?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Có vai trò trong xây dựng và phát triển văn hóa"
+        },
+        {
+          "label": "B",
+          "text": "Có vai trò rất quan trọng trong sự nghiệp đại đoàn kết toàn dân tộc xây dựng và bảo vệ Tổ quốc"
+        },
+        {
+          "label": "C",
+          "text": "Có vai trò xây dựng chính sách phát triển đất nước"
+        },
+        {
+          "label": "D",
+          "text": "Có vai trò xây dựng và phát triển kinh tế thị trường định hướng xã hội chủ nghĩa"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "24",
+      "id": "322505355",
+      "number": "24",
+      "question": "Đại hội đại biểu toàn quốc lần thứ X (4/2006) đã chỉ ra bao nhiêu bài học cần thiết để tiếp tục hoàn thiện đường lối chỉ đạo đấy mạnh sự nghiệp đổi mới trong những năm tiếp theo?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "5 bài học"
+        },
+        {
+          "label": "B",
+          "text": "6 bài học"
+        },
+        {
+          "label": "C",
+          "text": "7 bài học"
+        },
+        {
+          "label": "D",
+          "text": "8 bài học"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "25",
+      "id": "322505356",
+      "number": "25",
+      "question": "Hội nghị nào đã chỉ rõ: “Hiện nay đế quốc Mỹ là kẻ thù chính của nhân dân thế giới, và nó đang trở thành kẻ thù chính và trực tiếp của nhân dân Đông Dương, cho nên mọi việc của ta đều nhằm chống đế quốc Mỹ”?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị lần thứ 10 (Tháng 9/1956)."
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị lần thứ 7 (Tháng 3/1955)."
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị lần thứ 8 (Tháng 8/1955)."
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị lần thứ 6 (Tháng 7/1954)."
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "26",
+      "id": "322505357",
+      "number": "26",
+      "question": "Chỉ thị \"Kháng chiến kiến quốc ngày 25/11/1945 Đảng đã xác định ai là kẻ thủ chính của dân tộc ta để tập trung ngọn lửa đâu tranh vào chúng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Thực dân Pháp"
+        },
+        {
+          "label": "B",
+          "text": "Quân đội Tường Giới Thạch"
+        },
+        {
+          "label": "C",
+          "text": "Phát xít Nhật"
+        },
+        {
+          "label": "D",
+          "text": "Thực dân Anh"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "27",
+      "id": "322505358",
+      "number": "27",
+      "question": "Đại hội nào của Đăng diễn ra trong bối cảnh: Khu vực Đông Nam Á, châu Á - Thái Bình Dương trở thành khu vực phát triển kinh tế năng động nhưng tiêm ăn những nhân tố gây mất ổn định. Sau 15 năm đổi mới, Việt Nam đạt được nhiều thành tựu quan trọng, tạo thế và lực mới nhưng nền kinh tế phát triển chưa vững chắc, hiệu quả và sức cạnh tranh thấp?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ X (4/2006)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "28",
+      "id": "322505359",
+      "number": "28",
+      "question": "Đại hội đại biểu toàn quốc lần thứ IV (12/1976) xác định các đặc trưng cơ bản về chủ nghĩa xã hội ở nước ta là nội dung nào sau đây?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc, con người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện."
+        },
+        {
+          "label": "B",
+          "text": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh; do nhân dân làm chủ; có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc."
+        },
+        {
+          "label": "C",
+          "text": "Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đai và chế độ công hữu về các tư liệu sản xuất chủ yếu."
+        },
+        {
+          "label": "D",
+          "text": "Xây dựng chế độ làm chủ tập thể xã hội chủ nghĩa, nền sản xuất lớn, nền văn hoá mới, còn người mới xã hội chủ nghĩa; coi chuyên chính vô sản, phát huy quyền làm chủ tập thể của nhân dân lao động là công cụ để xây dựng chủ nghĩa xã hội."
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "29",
+      "id": "322505360",
+      "number": "29",
+      "question": "Ban chấp hành Trung ương Đảng chủ trương thành lập nước Việt Nam dân chủ cộng hoà tại Hội nghị nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị lần thứ sáu của Ban chấp hành Trung ương Đăng 11-1939"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị lần thứ tám của Ban chấp hành Trung ương Đảng (5-1941)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị lần thứ 7 của Ban chấp hành Trung ương Đăng 11-1940"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Ban chấp hành trung ương Đảng 10-1930"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "30",
+      "id": "322505361",
+      "number": "30",
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội do Đại hội VII thông qua xác định bao nhiêu phương hưởng lớn xây dựng chủ nghĩa xã hội?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "8 phương hướng"
+        },
+        {
+          "label": "B",
+          "text": "5 phương hương"
+        },
+        {
+          "label": "C",
+          "text": "7 phương hướng"
+        },
+        {
+          "label": "D",
+          "text": "6 phương hướng"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "31",
+      "id": "322505362",
+      "number": "31",
+      "question": "Chủ tịch Hồ Chí Minh đọc tuyên ngôn độc lập ngày 2/9/1945 tại Quảng trường Ba Đình, Hà Nội đã?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Góp phần làm sụp đổ hoàn toàn chủ nghĩa thực dẫn trên phạm vi toàn thế giới"
+        },
+        {
+          "label": "B",
+          "text": "Khai sinh ra nước Việt Nam dân chủ cộng hòa"
+        },
+        {
+          "label": "C",
+          "text": "Toàn thể dân tộc Việt Nam chấm dứt chiến tranh xâm lược của đề quốc"
+        },
+        {
+          "label": "D",
+          "text": "Chấm dứt quá trình xâm lược Việt Nam của thực dân Pháp"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "32",
+      "id": "322505363",
+      "number": "32",
+      "question": "Hội nghị Trung ương 6 (1-2008) của Đảng đã đưa ra chủ trương về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Xác định công tác tôn giáo là vấn đề chiến lược có ý nghĩa rất quan trọng"
+        },
+        {
+          "label": "B",
+          "text": "Phát huy sức mạnh đại đoàn kết toàn dân tộc"
+        },
+        {
+          "label": "C",
+          "text": "Chủ trương và giải pháp để tiếp tục hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa"
+        },
+        {
+          "label": "D",
+          "text": "Các dân tộc trong đại gia đình Việt Nam bình đẳng, đoàn kết, tương trợ, giúp nhau cùng phát triển, cùng nhau phần đầu thực hiện thắng lợi sự nghiệp công nghiệp hóa, hiện đại hóa đất nước, xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "33",
+      "id": "322505364",
+      "number": "33",
+      "question": "Nội dung của Hội nghị Trung ương 3 (9-2001) của Đăng bàn về vần đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Thực hiện nhất quán và lâu dài nên kinh tế thị trường định hướng xã hội chủ nghĩa."
+        },
+        {
+          "label": "B",
+          "text": "Chỉ đạo sắp xếp, đổi mới, phát triển và nâng cao hiệu quả doanh nghiệp nhà nước, tạo bước phát triển mới, tạo thế và lực cho các doanh nghiệp nhà nước hoạt động có hiệu quả hơn trong thời kỳ đẩy mạnh công nghiệp hoá, hiện đại hoá và hội nhập kinh tế quốc tế."
+        },
+        {
+          "label": "C",
+          "text": "Ban hành 5 Nghị quyết liên quan đến chăm sóc, bồi dưỡng, phát huy nguồn lực con người"
+        },
+        {
+          "label": "D",
+          "text": "Hội đồng Chính phủ ra quyết định (10-1979) về việc tận dụng đất đai nông nghiệp để khai hoang, phục hoá được miễn thuế, trả thù lao và được sử dụng toàn bộ sản phẩm; quyết định xóa bỏ những trạm kiểm soát để người sản xuất có quyền tự do đưa sản phẩm ra trao đổi ngoài thị trường."
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "34",
+      "id": "322505365",
+      "number": "34",
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội 1991 chỉ rõ bao nhiêu phương hướng cơ bản xây dựng chủ nghĩa xã hội ở nước ta?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "5 phương hướng"
+        },
+        {
+          "label": "B",
+          "text": "8 phương hướng"
+        },
+        {
+          "label": "C",
+          "text": "6 phương hướng"
+        },
+        {
+          "label": "D",
+          "text": "7 phương hương"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "35",
+      "id": "322505366",
+      "number": "35",
+      "question": "Chính cương Đảng Lao động Việt Nam (2/1951) xác định đối tượng chính của cách mạng Việt Nam là ai?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Địa chủ."
+        },
+        {
+          "label": "B",
+          "text": "Chủ nghĩa đế quốc xâm lược (đế quốc pháp và bọn can thiệp mỹ)."
+        },
+        {
+          "label": "C",
+          "text": "Phong kiến (phong kiến phản động)"
+        },
+        {
+          "label": "D",
+          "text": "Tư sản"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "36",
+      "id": "322505367",
+      "number": "36",
+      "question": "Chỉ thị Kháng chiến kiến quốc ngày 25/11/1945 của Ban Chấp hành Trung ương Đảng xác định nhiệm vụ chủ yếu, trước mắt của cách mạng Việt Nam là?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Chống thực dân Pháp xâm lược, củng cố chính quyền, bầu cử Quốc hội, xây dựng lực lượng vũ trang, xóa nạn mù chữ"
+        },
+        {
+          "label": "B",
+          "text": "Cải thiện đời sống cho nhân dân, chống nạn mù chữ, bầu cử Quốc hội, bài trừ nội phân"
+        },
+        {
+          "label": "C",
+          "text": "Củng cổ chính quyền, chống thực dân Pháp xâm lược, bài trừ nội phản, cải thiện đời sống cho nhân dân"
+        },
+        {
+          "label": "D",
+          "text": "Cùng cố chính quyên, bài trừ nội phản, chống đói, chống thực dân Pháp xâm lược"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "37",
+      "id": "322505368",
+      "number": "37",
+      "question": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991) của Đảng đã nêu ra phương châm thực hiện về đối ngoại là gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Việt Nam muốn là bạn với tất cả các nước trong cộng đồng thế giới, phấn đấu vì hòa bình, độc lập và phát triển."
+        },
+        {
+          "label": "B",
+          "text": "Việt Nam sẵn sàng là bạn và là đối tác tin cậy của tất cả các nước trong cộng đồng thế giới phấn đấu vì hoà bình, độc lập và phát triển."
+        },
+        {
+          "label": "C",
+          "text": "Việt Nam sẵn sàng là bạn của tất cả các nước trong cộng đồng thế giới phấn đấu vì hoà bình, độc lập và phát triển."
+        },
+        {
+          "label": "D",
+          "text": "Việt Nam muốn là bạn và là đối tác tin cậy của tất cả các nước trong cộng đồng thế giới phấn đấu vì hoà bình, độc lập và phát triển."
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "38",
+      "id": "322505369",
+      "number": "38",
+      "question": "Chủ trương xây dựng và tổ chức thực hiện ba chương trình kinh tế lớn về lương thực, thực phẩm; hàng tiêu dùng; hàng xuất khẩu được Đáng đề ra tại Đại hội nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}

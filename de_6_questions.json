@@ -1,0 +1,630 @@
+{
+  "total_questions": 25,
+  "questions": [
+    {
+      "original_number": "31",
+      "id": "321305427",
+      "number": "1",
+      "question": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991) của Đảng đã nêu ra phương châm thực hiện về đối ngoại là gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Việt Nam muốn là bạn với tất cả các nước trong cộng đồng thế giới, phấn đấu vì hòa bình, độc lập và phát triển"
+        },
+        {
+          "label": "B",
+          "text": "Việt Nam sẵn sàng là bạn của tất cả các nước trong cộng đồng thế giới, phấn đấu vì hòa bình, độc lập và phát triển"
+        },
+        {
+          "label": "C",
+          "text": "Việt Nam sẵn sàng là bạn và là đối tác tin cậy của tất cả các nước trong cộng đồng thế giới, phấn đấu vì hòa bình, độc lập và phát triển"
+        },
+        {
+          "label": "D",
+          "text": "Việt Nam muốn là bạn và là đối tác tin cậy của tất cả các nước trong cộng đồng thế giới, phấn đấu vì hòa bình, độc lập và phát triển"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "32",
+      "id": "321305428",
+      "number": "2",
+      "question": "“Đảng Cộng sản Việt Nam lấy chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh là nền tảng tư tưởng và kim chỉ nam cho hành động, tiếp thu tinh hoa trí tuệ của dân tộc và nhân loại, nắm vững quy luật khách quan và thực tiễn của đất nước để đề ra Cương lĩnh chính trị, đường lối cách mạng đúng đắn, phù hợp với yêu cầu, nguyện vọng của nhân dân”. Chủ trương trên được nêu ra tại Đại hội đại biểu toàn quốc lần thứ mấy của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "33",
+      "id": "321305429",
+      "number": "3",
+      "question": "Việt Nam và Trung Quốc bình thường hóa quan hệ vào thời gian nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Từ tháng 11-1991"
+        },
+        {
+          "label": "B",
+          "text": "Từ tháng 11-1990"
+        },
+        {
+          "label": "C",
+          "text": "Từ tháng 11-1992"
+        },
+        {
+          "label": "D",
+          "text": "Từ tháng 11-1993"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "34",
+      "id": "321305430",
+      "number": "4",
+      "question": "Việt Nam và Hoa Kỳ bình thường hóa quan hệ vào thời gian nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Từ tháng 7-1995"
+        },
+        {
+          "label": "B",
+          "text": "Từ tháng 7-1991"
+        },
+        {
+          "label": "C",
+          "text": "Từ tháng 7-1993"
+        },
+        {
+          "label": "D",
+          "text": "Từ tháng 7-1996"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "35",
+      "id": "321305431",
+      "number": "5",
+      "question": "Hội nghị Trung ương nào của Đảng lần đầu tiên đưa ra chủ trương tự đổi mới, tự chỉnh đốn Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 3 (6-1992)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị giữa nhiệm kỳ (1-1994)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 6 (Khóa VI) (12-1989)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 8 (Khóa VI) (12-1990)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "36",
+      "id": "321305432",
+      "number": "6",
+      "question": "Nghị quyết số 07 của Bộ Chính trị ban hành ngày 17-11-1993 đưa ra chủ trương về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại đoàn kết dân tộc và tăng cường Mặt trận Dân tộc thống nhất"
+        },
+        {
+          "label": "B",
+          "text": "Xây dựng Đảng về chính trị và tư tưởng; chỉnh đốn Đảng về tổ chức, tạo bước chuyển biến quan trọng về công tác cán bộ"
+        },
+        {
+          "label": "C",
+          "text": "Củng cố quốc phòng an ninh, mở rộng quan hệ đối ngoại, đổi mới và chỉnh đốn Đảng"
+        },
+        {
+          "label": "D",
+          "text": "Phát triển công nghiệp, công nghệ và xây dựng giai cấp công nhân trong giai đoạn mới"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "37",
+      "id": "321305433",
+      "number": "7",
+      "question": "Hội nghị Trung ương 7 (7-1994) khóa VII của Đảng đưa ra chủ trương về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Phát triển công nghiệp, công nghệ và xây dựng giai cấp công nhân trong giai đoạn mới"
+        },
+        {
+          "label": "B",
+          "text": "Xây dựng Đảng về chính trị và tư tưởng; chỉnh đốn Đảng về tổ chức, tạo bước chuyển biến quan trọng về công tác cán bộ"
+        },
+        {
+          "label": "C",
+          "text": "Củng cố quốc phòng an ninh, mở rộng quan hệ đối ngoại, đổi mới và chỉnh đốn Đảng"
+        },
+        {
+          "label": "D",
+          "text": "Đại đoàn kết dân tộc và tăng cường Mặt trận Dân tộc thống nhất"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "38",
+      "id": "321305434",
+      "number": "8",
+      "question": "Tại Hội nghị nào của Đảng lần đầu tiên khẳng định xây dựng Nhà nước pháp quyền Việt Nam của nhân dân, do nhân dân, vì nhân dân?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị giữa nhiệm kỳ (1-1994)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 3 (6-1992)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 6 (Khóa VI) (12-1989)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 8 (Khóa VI) (12-1990)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "39",
+      "id": "321305435",
+      "number": "9",
+      "question": "Việt Nam gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN) vào thời gian nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Ngày 28-7-1995"
+        },
+        {
+          "label": "B",
+          "text": "Ngày 28-7-1996"
+        },
+        {
+          "label": "C",
+          "text": "Ngày 28-7-1997"
+        },
+        {
+          "label": "D",
+          "text": "Ngày 28-7-1998"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "40",
+      "id": "321305436",
+      "number": "10",
+      "question": "Đại hội Đại biểu toàn quốc nào của Đảng xác định: Nhiệm vụ đề ra cho chặng đường đầu của thời kỳ quá độ là chuẩn bị tiền đề cho công nghiệp hóa đã cơ bản hoàn thành, cho phép chuyển sang thời kỳ mới đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ X (4/2006)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "41",
+      "id": "321305437",
+      "number": "11",
+      "question": "Đại hội Đại biểu toàn quốc lần thứ VIII (6/1996) của Đảng nêu ra bao nhiêu bài học chủ yếu qua 10 năm đổi mới?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "6 bài học"
+        },
+        {
+          "label": "B",
+          "text": "4 bài học"
+        },
+        {
+          "label": "C",
+          "text": "5 bài học"
+        },
+        {
+          "label": "D",
+          "text": "7 bài học"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "42",
+      "id": "321305438",
+      "number": "12",
+      "question": "Đại hội Đại biểu toàn quốc lần thứ VIII (6/1996) của Đảng đưa ra bao nhiêu quan điểm về công nghiệp hóa trong thời kỳ mới?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "6 quan điểm"
+        },
+        {
+          "label": "B",
+          "text": "4 quan điểm"
+        },
+        {
+          "label": "C",
+          "text": "5 quan điểm"
+        },
+        {
+          "label": "D",
+          "text": "7 quan điểm"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "43",
+      "id": "321305439",
+      "number": "13",
+      "question": "Quan điểm về công nghiệp hóa trong thời kỳ mới của Đại hội Đại biểu toàn quốc lần thứ VIII (6/1996) của Đảng đưa ra xác định yếu tố nào là yếu tố cơ bản cho sự phát triển nhanh và bền vững?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Con người"
+        },
+        {
+          "label": "B",
+          "text": "Khoa học, công nghệ"
+        },
+        {
+          "label": "C",
+          "text": "Kinh tế"
+        },
+        {
+          "label": "D",
+          "text": "Văn hóa, xã hội"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "44",
+      "id": "321305440",
+      "number": "14",
+      "question": "Quan điểm về công nghiệp hóa trong thời kỳ mới của Đại hội Đại biểu toàn quốc lần thứ VIII (6/1996) của Đảng xác định công nghiệp hóa, hiện đại hóa là nhiệm vụ của ai?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Công nghiệp hóa, hiện đại hóa là sự nghiệp của toàn dân, của mọi thành phần kinh tế, trong đó kinh tế nhà nước giữ vai trò chủ đạo"
+        },
+        {
+          "label": "B",
+          "text": "Nhân dân"
+        },
+        {
+          "label": "C",
+          "text": "Kinh tế nhà nước"
+        },
+        {
+          "label": "D",
+          "text": "Kinh tế tư nhân"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "45",
+      "id": "321305441",
+      "number": "15",
+      "question": "Hội nghị Trung ương 3 (6-1997) đã thông qua Nghị quyết về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Về phát huy quyền làm chủ của nhân dân, tiếp tục xây dựng Nhà nước Cộng hòa Xã hội chủ nghĩa Việt Nam trong sạch, vững mạnh"
+        },
+        {
+          "label": "B",
+          "text": "Chiến lược cán bộ thời kỳ đẩy mạnh công nghiệp hóa hiện đại hóa đất nước"
+        },
+        {
+          "label": "C",
+          "text": "Yêu cầu tăng cường sự thống nhất trong Đảng về nhận thức, ý chí và hành động, kiên trì đấu tranh đẩy lùi 4 nguy cơ"
+        },
+        {
+          "label": "D",
+          "text": "Tiếp tục xây dựng và củng cố tổ chức bộ máy của hệ thống chính trị của Đảng từ Trung ương đến cơ sở"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "46",
+      "id": "321305442",
+      "number": "16",
+      "question": "Hội nghị Trung ương 4 khóa VIII (12-1997) của Đảng đã bầu đồng chí nào giữ chức vụ Tổng Bí thư?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đồng chí Lê Khả Phiêu"
+        },
+        {
+          "label": "B",
+          "text": "Đồng chí Nông Đức Mạnh"
+        },
+        {
+          "label": "C",
+          "text": "Đồng chí Đỗ Mười"
+        },
+        {
+          "label": "D",
+          "text": "Đồng chí Nguyễn Mạnh Cầm"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "47",
+      "id": "321305443",
+      "number": "17",
+      "question": "Hội nghị Trung ương 6 lần 2 (2-1999) đã ra Nghị quyết về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Một số vấn đề cơ bản và cấp bách trong công tác xây dựng Đảng"
+        },
+        {
+          "label": "B",
+          "text": "Chiến lược cán bộ thời kỳ đẩy mạnh công nghiệp hóa hiện đại hóa đất nước"
+        },
+        {
+          "label": "C",
+          "text": "Yêu cầu tăng cường sự thống nhất trong Đảng về nhận thức, ý chí và hành động, kiên trì đấu tranh đẩy lùi 4 nguy cơ"
+        },
+        {
+          "label": "D",
+          "text": "Tiếp tục xây dựng và củng cố tổ chức bộ máy của hệ thống chính trị của Đảng từ Trung ương đến cơ sở"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "48",
+      "id": "321305444",
+      "number": "18",
+      "question": "Hội nghị nào của Đảng xác định giáo dục-đào tạo cùng với khoa học và công nghệ là quốc sách hàng đầu, là nhân tố quyết định tăng trưởng kinh tế và phát triển xã hội?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 2 khóa VIII (12-1996)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 3 (6-1992)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị giữa nhiệm kỳ (1-1994)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 8 (Khóa VI) (12-1990)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "49",
+      "id": "321305445",
+      "number": "19",
+      "question": "Nghị quyết nào của Đảng được xem như Tuyên ngôn văn hóa của Đảng trong thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Nghị quyết Trung ương 5 khóa VIII"
+        },
+        {
+          "label": "B",
+          "text": "Nghị quyết Trung ương 2 khóa VIII (12-1996)"
+        },
+        {
+          "label": "C",
+          "text": "Nghị quyết về định hướng chiến lược phát triển giáo dục-đào tạo trong thời kỳ công nghiệp hóa, hiện đại hóa và nhiệm vụ đến năm 2000"
+        },
+        {
+          "label": "D",
+          "text": "Nghị quyết Trung ương 7 khóa VIII (8-1999)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "50",
+      "id": "321305446",
+      "number": "20",
+      "question": "Đại hội nào của Đảng diễn ra trong bối cảnh: Khu vực Đông Nam Á, châu Á-Thái Bình Dương trở thành khu vực phát triển kinh tế năng động nhưng tiềm ẩn những nhân tố gây mất ổn định. Sau 15 năm đổi mới, Việt Nam đạt được nhiều thành tựu quan trọng, tạo thế và lực mới nhưng nền kinh tế phát triển chưa vững chắc, hiệu quả và sức cạnh tranh thấp?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ X (4/2006)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "51",
+      "id": "321305447",
+      "number": "21",
+      "question": "Chiến lược phát triển kinh tế-xã hội 2001-2010 được Đảng thông qua tại Đại hội đại biểu toàn quốc lần thứ mấy?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ X (4/2006)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "52",
+      "id": "321305448",
+      "number": "22",
+      "question": "Đại hội đại biểu toàn quốc lần thứ IX (4/2001) đã xác định phương châm đối ngoại của Đảng ta như thế nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế, phấn đấu vì hòa bình, độc lập và phát triển"
+        },
+        {
+          "label": "B",
+          "text": "Việt Nam sẵn sàng là bạn của tất cả các nước trong cộng đồng thế giới, phấn đấu vì hòa bình, độc lập và phát triển"
+        },
+        {
+          "label": "C",
+          "text": "Việt Nam sẵn sàng là bạn và là đối tác tin cậy của tất cả các nước trong cộng đồng thế giới, phấn đấu vì hòa bình, độc lập và phát triển"
+        },
+        {
+          "label": "D",
+          "text": "Việt Nam muốn là bạn và là đối tác tin cậy của tất cả các nước trong cộng đồng thế giới, phấn đấu vì hòa bình, độc lập và phát triển"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "53",
+      "id": "321305449",
+      "number": "23",
+      "question": "Nội dung của Hội nghị Trung ương 3 (9-2001) của Đảng bàn về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Chỉ đạo sắp xếp, đổi mới, phát triển và nâng cao hiệu quả doanh nghiệp nhà nước"
+        },
+        {
+          "label": "B",
+          "text": "Mở rộng quan hệ đối ngoại, chủ động hội nhập kinh tế quốc tế"
+        },
+        {
+          "label": "C",
+          "text": "Xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc"
+        },
+        {
+          "label": "D",
+          "text": "Thực hiện nhất quán và lâu dài nền kinh tế thị trường định hướng xã hội chủ nghĩa"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "54",
+      "id": "321305450",
+      "number": "24",
+      "question": "Đại hội đại biểu toàn quốc lần thứ IX (4/2001) đã xác định mô hình kinh tế tổng quát của nước ta trong thời kỳ quá độ đi lên chủ nghĩa xã hội là gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Kinh tế thị trường định hướng xã hội chủ nghĩa"
+        },
+        {
+          "label": "B",
+          "text": "Kinh tế thị trường"
+        },
+        {
+          "label": "C",
+          "text": "Kinh tế hàng hóa nhiều thành phần"
+        },
+        {
+          "label": "D",
+          "text": "Kinh tế thị trường định tư bản chủ nghĩa"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "55",
+      "id": "321305451",
+      "number": "25",
+      "question": "Nghị quyết về phát huy sức mạnh đại đoàn kết toàn dân tộc vì “Dân giàu, nước mạnh, xã hội công bằng, dân chủ, văn minh” được ban hành tại cuộc họp nào của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 7 (3-2003)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 2 khóa VIII (12-1996)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 3 (6-1992)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị giữa nhiệm kỳ (1-1994)"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

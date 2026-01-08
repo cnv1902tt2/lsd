@@ -1,0 +1,734 @@
+{
+  "total_questions": 30,
+  "questions": [
+    {
+      "original_number": "1",
+      "id": "321305000",
+      "number": "1",
+      "question": "Chủ trương hoàn thành thống nhất nước nhà, đưa cả nước tiến nhanh, tiến mạnh, tiến vững chắc lên chủ nghĩa xã hội được đề ra tại hội nghị nào của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị lần thứ 24 Ban Chấp hành Trung ương Đảng khóa III (8 -1975)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị lần thứ 24 Ban Chấp hành Trung ương Đảng khóa III (9 -1975)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị lần thứ 24 Ban Chấp hành Trung ương Đảng khóa III (4 -1976)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị lần thứ 24 Ban Chấp hành Trung ương Đảng khóa III (5 -1976)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "2",
+      "id": "321305001",
+      "number": "2",
+      "question": "Hội nghị hiệp thương chính trị giữa đoàn đại biểu miền Bắc và đoàn đại biểu miền Nam đã họp ở đâu?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Sài Gòn"
+        },
+        {
+          "label": "B",
+          "text": "Hà Nội"
+        },
+        {
+          "label": "C",
+          "text": "Đà Nẵng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "3",
+      "id": "321305002",
+      "number": "3",
+      "question": "Nội dung của Chỉ thị số 228-CT/TW của Bộ Chính trị Trung ương Đảng nói về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Nêu rõ tầm quan trọng của cuộc Tổng tuyển cử và giao trách nhiệm cho các cấp ủy lãnh đạo cuộc bầu cử."
+        },
+        {
+          "label": "B",
+          "text": "Bàn chủ trương, biện pháp thống nhất nước nhà về mặt nhà nước."
+        },
+        {
+          "label": "C",
+          "text": "Thống nhất cả nước tên gọi mới các tổ chức chính trị-xã hội."
+        },
+        {
+          "label": "D",
+          "text": "Tổng kết cuộc kháng chiến chống Mỹ, cứu nước."
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "4",
+      "id": "321305003",
+      "number": "4",
+      "question": "Cuộc Tổng tuyển cử bầu Quốc hội chung của nước Việt Nam thống nhất được tiến hành vào thời gian nào?",
+      "answers": [],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "5",
+      "id": "321305004",
+      "number": "5",
+      "question": "Kỳ họp thứ nhất của Quốc hội nước Việt Nam thống nhất (Quốc hội khóa VI) được tổ chức trong thời gian nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Từ 24/6 đến 3/7/1976"
+        },
+        {
+          "label": "B",
+          "text": "Từ 24/7 đến 3/8/1976"
+        },
+        {
+          "label": "C",
+          "text": "Từ 24/9 đến 3/10/1976"
+        },
+        {
+          "label": "D",
+          "text": "Từ 20/9 đến 1/10/1976"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "6",
+      "id": "321305005",
+      "number": "6",
+      "question": "Kỳ họp nào của Đảng quyết định đặt tên nước ta là nước Cộng hòa Xã hội chủ nghĩa Việt Nam?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Kỳ họp thứ nhất của Quốc hội nước Việt Nam (từ 24/6 - 3/7/1976)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "7",
+      "id": "321305006",
+      "number": "7",
+      "question": "Kế hoạch 5 năm lần thứ II (1976 - 1980) do đại hội đại biểu toàn quốc lần thứ mấy của Đảng thông qua?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "8",
+      "id": "321305007",
+      "number": "8",
+      "question": "Đại hội đại biểu toàn quốc lần thứ IV (12/1976) xác định các đặc trưng cơ bản về chủ nghĩa xã hội ở nước ta là nội dung nào sau đây?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Xây dựng chế độ làm chủ tập thể xã hội chủ nghĩa, nền sản xuất lớn, nền văn hóa mới, con người mới xã hội chủ nghĩa; coi chuyên chính vô sản, phát huy quyền làm chủ tập thể của nhân dân lao động là công cụ để xây dựng chủ nghĩa xã hội."
+        },
+        {
+          "label": "B",
+          "text": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh; do nhân dân làm chủ."
+        },
+        {
+          "label": "C",
+          "text": "Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về các tư liệu sản xuất chủ yếu."
+        },
+        {
+          "label": "D",
+          "text": "Có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc; con người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện."
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "9",
+      "id": "321305008",
+      "number": "9",
+      "question": "Nội dung nào dưới đây được Đại hội đại biểu toàn quốc lần thứ IV (12/1976) của Đảng xác định đường lối xây dựng, phát triển kinh tế?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đẩy mạnh công nghiệp hóa xã hội chủ nghĩa bằng ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ, xây dựng cơ cấu kinh tế công-nông nghiệp; kết hợp kinh tế trung ương với kinh tế địa phương, kết hợp phát triển lực lượng sản xuất."
+        },
+        {
+          "label": "B",
+          "text": "Tiếp tục xây dựng cơ sở vật chất-kỹ thuật của chủ nghĩa xã hội, chủ yếu nhằm thúc đẩy sản xuất nông nghiệp, hàng tiêu dùng và xuất khẩu."
+        },
+        {
+          "label": "C",
+          "text": "Tiếp tục xây dựng cơ sở vật chất-kỹ thuật của chủ nghĩa xã hội, thúc đẩy sản xuất nông nghiệp, hàng tiêu dùng và xuất khẩu."
+        },
+        {
+          "label": "D",
+          "text": "Tập trung sức phát triển mạnh nông nghiệp, coi nông nghiệp là mặt trận hàng đầu."
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "10",
+      "id": "321305009",
+      "number": "10",
+      "question": "Chủ trương đổi mới công tác kế hoạch hóa và cải tiến một cách cơ bản chính sách kinh tế để làm cho sản xuất \"bung ra\" được nêu lên ở Hội nghị nào của Trung ương Đảng, khóa IV?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị lần thứ năm (12-1978)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị lần thứ sáu (8-1979)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị lần thứ bảy (3-1980)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị lần thứ bảy (9-1980)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "11",
+      "id": "321305010",
+      "number": "11",
+      "question": "Chỉ thị 100 CT/TW của Ban Bí thư Trung ương Đảng (1-1981) đưa ra chủ trương nào sau đây?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp"
+        },
+        {
+          "label": "B",
+          "text": "Mở rộng hình thức trả lương khoán, lương sản phẩm"
+        },
+        {
+          "label": "C",
+          "text": "Phát huy quyền sản xuất kinh doanh của các xí nghiệp quốc doanh"
+        },
+        {
+          "label": "D",
+          "text": "Cải tiến công tác phân phối lưu thông"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "12",
+      "id": "321305011",
+      "number": "12",
+      "question": "Quyết định số 25-CP (1-1981) của Chính phủ đưa ra chủ trương nào sau đây?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Quyền chủ động sản xuất kinh doanh và quyền tự chủ về tài chính của các xí nghiệp quốc doanh"
+        },
+        {
+          "label": "B",
+          "text": "Cải tiến công tác phân phối lưu thông"
+        },
+        {
+          "label": "C",
+          "text": "Khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp"
+        },
+        {
+          "label": "D",
+          "text": "Mở rộng hình thức trả lương khoán, lương sản phẩm"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "13",
+      "id": "321305012",
+      "number": "13",
+      "question": "Đại hội nào của Đảng đã chủ trương coi nông nghiệp là mặt trận hàng đầu?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ III (9/1960)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "14",
+      "id": "321305013",
+      "number": "14",
+      "question": "Hội nghị nào của Ban Chấp hành Trung ương Đảng khóa V quyết định phải dứt khoát xóa bỏ cơ chế tập trung quan liêu bao cấp, thực hiện hạch toán kinh doanh xã hội chủ nghĩa?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị lần thứ tám (6-1985)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị lần thứ chín (12-1985)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị lần thứ mười (5-1986)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Bộ Chính trị (4-1988)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "15",
+      "id": "321305014",
+      "number": "15",
+      "question": "Sự kiện nào sau đây của Đảng được đánh giá là bước đột phá thứ ba về đổi mới kinh tế, đồng thời cũng là bước quyết định cho sự ra đời của đường lối đổi mới của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Bộ Chính trị khóa V (8-1986)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 6 (7-1984)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 7 (12-1984)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 8 khóa V (6-1985)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "16",
+      "id": "321305015",
+      "number": "16",
+      "question": "Chủ trương xây dựng và tổ chức thực hiện ba chương trình kinh tế lớn về lương thực, thực phẩm; hàng tiêu dùng; hàng xuất khẩu được Đảng đề ra tại Đại hội nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "17",
+      "id": "321305016",
+      "number": "17",
+      "question": "Đại hội nào của Đảng được đánh giá là Đại hội khởi xướng đường lối đổi mới toàn diện?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "18",
+      "id": "321305017",
+      "number": "18",
+      "question": "Đại hội đại biểu toàn quốc lần thứ VI (12/1986) của Đảng đã chỉ rõ trong thời kỳ 1975-1986 Đảng đã mắc những sai lầm, khuyết điểm nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Sai lầm nghiêm trọng và kéo dài về chủ trương, chính sách lớn, sai lầm về chỉ đạo chiến lược và tổ chức thực hiện"
+        },
+        {
+          "label": "B",
+          "text": "Chưa thấy hết sự cần thiết duy trì nền kinh tế nhiều thành phần"
+        },
+        {
+          "label": "C",
+          "text": "Chưa chú trọng phát triển công nghiệp nặng"
+        },
+        {
+          "label": "D",
+          "text": "Chưa tìm ra những giải pháp hiệu quả tháo gỡ tình trạng rối ren trong phân phối lưu thông"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "19",
+      "id": "321305018",
+      "number": "19",
+      "question": "Đại hội Đại biểu toàn quốc lần thứ VI (12/1986) của Đảng đã đề ra bao nhiêu phương hướng lớn phát triển kinh tế?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "5 phương hướng"
+        },
+        {
+          "label": "B",
+          "text": "3 phương hướng"
+        },
+        {
+          "label": "C",
+          "text": "4 phương hướng"
+        },
+        {
+          "label": "D",
+          "text": "6 phương hướng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "20",
+      "id": "321305019",
+      "number": "20",
+      "question": "Đại hội Đại biểu toàn quốc lần thứ VI (12/1986) của Đảng đã đề ra đường lối đổi mới toàn diện, trong đó trọng tâm là đổi mới về lĩnh vực nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Kinh tế"
+        },
+        {
+          "label": "B",
+          "text": "Chính trị"
+        },
+        {
+          "label": "C",
+          "text": "Văn hóa"
+        },
+        {
+          "label": "D",
+          "text": "Xã hội"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "21",
+      "id": "321305020",
+      "number": "21",
+      "question": "Hội nghị Trung ương 2 (4/1987) của Đảng đưa ra chủ trương về vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đề ra những chủ trương, biện pháp cấp bách về phân phối lưu thông, thực hiện bốn giảm"
+        },
+        {
+          "label": "B",
+          "text": "Khoán sản phẩm cuối cùng đến nhóm hộ và hộ xã viên"
+        },
+        {
+          "label": "C",
+          "text": "Trao quyền tự chủ cho các doanh nghiệp"
+        },
+        {
+          "label": "D",
+          "text": "Phân tích tình hình các nước xã hội chủ nghĩa, sự phá hoại của chủ nghĩa đế quốc, đề ra nhiệm vụ của Đảng ta"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "22",
+      "id": "321305021",
+      "number": "22",
+      "question": "Đại hội nào của Đảng được gọi là Đại hội \"Trí tuệ, đổi mới, dân chủ, kỷ cương và đoàn kết\"?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "23",
+      "id": "321305022",
+      "number": "23",
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội được thông qua trong Đại hội nào của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "24",
+      "id": "321305023",
+      "number": "24",
+      "question": "\"Nước ta đã ra khỏi khủng hoảng kinh tế-xã hội, nhưng một số mặt còn chưa vững chắc\" là đánh giá tổng quát của Đại hội nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VIII (1996)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IX (2001)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ X (2006)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ XI (2011)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "25",
+      "id": "321305024",
+      "number": "25",
+      "question": "Đại hội Đại biểu toàn quốc lần thứ VIII (1996) của Đảng đề ra mục tiêu \"đưa đất nước cơ bản trở thành một nước công nghiệp\" vào năm nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Năm 2020"
+        },
+        {
+          "label": "B",
+          "text": "Năm 2021"
+        },
+        {
+          "label": "C",
+          "text": "Năm 2022"
+        },
+        {
+          "label": "D",
+          "text": "Năm 2023"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "26",
+      "id": "321305025",
+      "number": "26",
+      "question": "Hội nghị nào của Đảng đã kịp thời phân tích tình hình các nước xã hội chủ nghĩa, sự phá hoại của chủ nghĩa đế quốc, đề ra nhiệm vụ của Đảng ta?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 8 (Khóa VI) (3-1990)"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 6 (Khóa VI) (12-1989)"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 6 (Khóa VI) (3-1989)"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 8 (Khóa VI) (12-1990)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "27",
+      "id": "321305026",
+      "number": "27",
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội do Đại hội VII thông qua xác định xã hội xã hội chủ nghĩa mà nhân dân ta xây dựng gồm mấy đặc trưng cơ bản?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "6 đặc trưng"
+        },
+        {
+          "label": "B",
+          "text": "7 đặc trưng"
+        },
+        {
+          "label": "C",
+          "text": "4 đặc trưng"
+        },
+        {
+          "label": "D",
+          "text": "8 đặc trưng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "28",
+      "id": "321305027",
+      "number": "28",
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội do Đại hội VII thông qua xác định bao nhiêu phương hướng lớn xây dựng chủ nghĩa xã hội?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "7 phương hướng"
+        },
+        {
+          "label": "B",
+          "text": "5 phương hướng"
+        },
+        {
+          "label": "C",
+          "text": "6 phương hướng"
+        },
+        {
+          "label": "D",
+          "text": "8 phương hướng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "29",
+      "id": "321305028",
+      "number": "29",
+      "question": "Đảng xác định: “Mục tiêu tổng quát phải đạt tới, khi kết thúc thời kỳ quá độ là xây dựng xong về cơ bản những cơ sở kinh tế của chủ nghĩa xã hội, với kiến trúc thượng tầng về chính trị và tư tưởng, văn hóa phù hợp, làm cho nước ta trở thành một nước xã hội chủ nghĩa phồn vinh”. Chủ trương trên được nêu ra tại văn kiện nào của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (1991)"
+        },
+        {
+          "label": "B",
+          "text": "Văn kiện Đại hội đại biểu toàn quốc lần thứ VIII (1996)"
+        },
+        {
+          "label": "C",
+          "text": "Văn kiện Đại hội đại biểu toàn quốc lần thứ IX (2001)"
+        },
+        {
+          "label": "D",
+          "text": "Văn kiện Đại hội đại biểu toàn quốc lần thứ X (2006)"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "30",
+      "id": "321305029",
+      "number": "30",
+      "question": "“Chiến lược ổn định và phát triển kinh tế-xã hội đến năm 2000” được thông qua tại Đại hội đại biểu toàn quốc lần thứ mấy của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
+        },
+        {
+          "label": "B",
+          "text": "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)"
+        },
+        {
+          "label": "C",
+          "text": "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
+        },
+        {
+          "label": "D",
+          "text": "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+{
+  "total_questions": 30,
+  "questions": [
+    {
+      "original_number": "1",
+      "id": "321306597",
+      "number": "1",
+      "question": "Thực dân Pháp tiến hành khai thác thuộc địa lần thứ nhất ở Việt Nam khi nào?",
+      "answers": [],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "2",
+      "id": "321306598",
+      "number": "2",
+      "question": "Chính sách “chia để trị” của thực dân Pháp ở nước ta nhằm mục đích gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đẩy nhanh quá trình khai thác thuộc địa"
+        },
+        {
+          "label": "B",
+          "text": "Nhằm phá vỡ khối đoàn kết cộng đồng quốc gia dân tộc"
+        },
+        {
+          "label": "C",
+          "text": "Biến nước ta thành thuộc địa kiểu mới của Pháp"
+        },
+        {
+          "label": "D",
+          "text": "Biến nền kinh tế Việt Nam phụ thuộc hoàn toàn vào Pháp"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "3",
+      "id": "321306599",
+      "number": "3",
+      "question": "Một trong những chủ trương của xu hướng bạo động do Phan Bội Châu tổ chức, lãnh đạo với mục đích?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Tập hợp lực lượng với phương pháp bạo động chống Pháp"
+        },
+        {
+          "label": "B",
+          "text": "Phá tan âm mưu xâm lược lâu dài nước ta của thực dân Pháp"
+        },
+        {
+          "label": "C",
+          "text": "Chủ động dựa vào Trung Quốc để cứu nước là duy nhất."
+        },
+        {
+          "label": "D",
+          "text": "Chủ động dựa vào Nhật để cứu nước là duy nhất"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "4",
+      "id": "321306600",
+      "number": "4",
+      "question": "Xu hướng cải cách của Phan Châu Trinh với mục đích?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Khai dân trí, chấn dân khí, hậu dân sinh"
+        },
+        {
+          "label": "B",
+          "text": "Liên kết với chính quyền phong kiến Việt Nam để chống Pháp xâm lược"
+        },
+        {
+          "label": "C",
+          "text": "Tập hợp lực lượng với phương pháp cải cách để chống Pháp"
+        },
+        {
+          "label": "D",
+          "text": "Dùng sắt và máu để giải phóng dân tộc"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "5",
+      "id": "321306601",
+      "number": "5",
+      "question": "Phong trào của tổ chức Việt Nam Quốc dân đảng do ai lãnh đạo?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Phan Văn Trường."
+        },
+        {
+          "label": "B",
+          "text": "Phan Bội Châu"
+        },
+        {
+          "label": "C",
+          "text": "Nguyễn Thái học"
+        },
+        {
+          "label": "D",
+          "text": "Nguyễn Ái Quốc"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "6",
+      "id": "321306602",
+      "number": "6",
+      "question": "Luận điểm quan trọng của Nguyễn Ái Quốc về con đường cách mạng giải phóng các dân tộc bị áp bức là gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Giải phóng dân tộc giành độc lập"
+        },
+        {
+          "label": "B",
+          "text": "Giải phóng nhân dân lao động khỏi chế độ thực dân"
+        },
+        {
+          "label": "C",
+          "text": "Giải phóng giai cấp giành chính quyền"
+        },
+        {
+          "label": "D",
+          "text": "Giải phóng giai cấp, giải phóng dân tộc đó là sự nghiệp của chủ nghĩa cộng sản"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "7",
+      "id": "321306603",
+      "number": "7",
+      "question": "Tác phẩm Đường Cách mệnh đã thể hiện tư tưởng của lãnh tụ Nguyễn Ái Quốc dựa trên cơ sở nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Vận dụng chủ nghĩa Mác-Lênin vào đặc điểm của Việt Nam"
+        },
+        {
+          "label": "B",
+          "text": "Chủ trương dựa vào bên ngoài để cứu nước"
+        },
+        {
+          "label": "C",
+          "text": "Vận dụng sáng tạo chủ nghĩa Mác-Lênin vào đặc điểm của Việt Nam"
+        },
+        {
+          "label": "D",
+          "text": "Tập hợp lực lượng với phương pháp mới để chống Pháp"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "8",
+      "id": "321306604",
+      "number": "8",
+      "question": "Đặc điểm ra đời của giai cấp công nhân Việt Nam là?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Ra đời trước giai cấp tư sản, trong cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp."
+        },
+        {
+          "label": "B",
+          "text": "Chịu sự áp bức và bóc lột của đế quốc, phong kiến và tư sản"
+        },
+        {
+          "label": "C",
+          "text": "Đại bộ phận xuất thân từ nông dân."
+        },
+        {
+          "label": "D",
+          "text": "Đại bộ phận xuất thân từ địa chủ phong kiến"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "9",
+      "id": "321306605",
+      "number": "9",
+      "question": "Nguyễn Ái Quốc đọc bản Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của V.I.Lênin vào thời gian nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Tháng 6/ 1919"
+        },
+        {
+          "label": "B",
+          "text": "Tháng 10/ 1917"
+        },
+        {
+          "label": "C",
+          "text": "Tháng 10/ 1918"
+        },
+        {
+          "label": "D",
+          "text": "Tháng 7/ 1920"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "10",
+      "id": "321306606",
+      "number": "10",
+      "question": "Sơ thảo lần thứ nhất những Luận cương về vấn đề dân tộc và vấn đề thuộc địa của V.I.Lênin đã chỉ dẫn cho Nguyễn Ái Quốc vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hướng phát triển của sự nghiệp cứu nước, giải phóng dân tộc"
+        },
+        {
+          "label": "B",
+          "text": "Sự phát triển của chủ nghĩa xã hội"
+        },
+        {
+          "label": "C",
+          "text": "Sứ mệnh lịch sử của giai cấp vô sản"
+        },
+        {
+          "label": "D",
+          "text": "Sự phát triển của giai cấp công nhân"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "11",
+      "id": "321306607",
+      "number": "11",
+      "question": "Cương lĩnh chính trị đầu tiên của Đảng đã xác định nhiệm vụ chủ yếu của trước mắt của cách mạng Việt Nam là gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Tư sản dân quyền cách mạng là thời kỳ dự bị để làm xã hội cách mạng."
+        },
+        {
+          "label": "B",
+          "text": "Đánh đổ đế quốc chủ nghĩa Pháp và bọn phong kiến, làm cho nước Việt Nam hoàn toàn độc lập."
+        },
+        {
+          "label": "C",
+          "text": "Chỉ có giải phóng giai cấp vô sản thì mới giải phóng được dân tộc"
+        },
+        {
+          "label": "D",
+          "text": "Đảng có vững cách mạng mới thành công"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "12",
+      "id": "321306608",
+      "number": "12",
+      "question": "Cương lĩnh chính trị đầu tiên của Đảng đã xác định đường lối chiến lược của cách mạng Việt Nam là gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Xây dựng một nước Việt Nam dân giầu nước mạnh xã hội công bằng, dân chủ và văn minh."
+        },
+        {
+          "label": "B",
+          "text": "Cách mạng tư sản dân quyền - phản đế và điền địa"
+        },
+        {
+          "label": "C",
+          "text": "Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản."
+        },
+        {
+          "label": "D",
+          "text": "Lập chính quyền của công nông bằng hình thức Xô viết, để dự bị điều kiện đi tới cách mạng xã hội chủ nghĩa"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "13",
+      "id": "321306609",
+      "number": "13",
+      "question": "Nội dung nào sau đây nằm trong Cương lĩnh chính trị đầu tiên của Đảng?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Sự phát triển của giai cấp công nhân"
+        },
+        {
+          "label": "B",
+          "text": "Sứ mệnh lịch sử của giai cấp vô sản"
+        },
+        {
+          "label": "C",
+          "text": "Hướng phát triển của sự nghiệp cứu nước, giải phóng dân tộc"
+        },
+        {
+          "label": "D",
+          "text": "Sự phát triển của chủ nghĩa xã hội"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "14",
+      "id": "321306610",
+      "number": "14",
+      "question": "Cương lĩnh đầu tiên của Đảng đã xác định phương hướng chiến lược của cách mạng Việt Nam là gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản."
+        },
+        {
+          "label": "B",
+          "text": "Lập chính quyền của công nông bằng hình thức Xô viết, để dự bị điều kiện đi tới cách mạng xã hội chủ nghĩa"
+        },
+        {
+          "label": "C",
+          "text": "Xây dựng một nước Việt Nam dân giầu nước mạnh xã hội công bằng, dân chủ và văn minh."
+        },
+        {
+          "label": "D",
+          "text": "Cách mạng tư sản dân quyền - phản đế và điền địa"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "15",
+      "id": "321306611",
+      "number": "15",
+      "question": "Trong các điểm sau, chỉ rõ điểm khác nhau giữa Cương lĩnh chính trị đầu tiên của Đảng và Luận cương chính trị tháng 10-1930?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Vai trò lãnh đạo cách mạng."
+        },
+        {
+          "label": "B",
+          "text": "Chủ trương tập hợp lực lượng cách mạng."
+        },
+        {
+          "label": "C",
+          "text": "Phương hướng chiến lược của cách mạng."
+        },
+        {
+          "label": "D",
+          "text": "Phương pháp cách mạng."
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "16",
+      "id": "321306612",
+      "number": "16",
+      "question": "Sơ thảo lần thứ nhất những Luận cương về vấn đề dân tộc và vấn đề thuộc địa của V.I.Lênin đã chỉ dẫn cho Nguyễn Ái Quốc vấn đề gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Sự phát triển của giai cấp công nhân"
+        },
+        {
+          "label": "B",
+          "text": "Sứ mệnh lịch sử của giai cấp vô sản"
+        },
+        {
+          "label": "C",
+          "text": "Sự phát triển của chủ nghĩa xã hội"
+        },
+        {
+          "label": "D",
+          "text": "Hướng phát triển của sự nghiệp cứu nước, giải phóng dân tộc"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "17",
+      "id": "321306613",
+      "number": "17",
+      "question": "Văn kiện nào của Đảng nhấn mạnh \"vấn đề thổ địa là cái cốt của cách mạng tư sản dân quyền\"?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Luận cương chính trị tháng 10-1930."
+        },
+        {
+          "label": "B",
+          "text": "Chỉ thị thành lập Hội phản đế đồng minh (18-11-1930)."
+        },
+        {
+          "label": "C",
+          "text": "Chung quanh vấn đề chiến sách mới của Đảng (10-1936)."
+        },
+        {
+          "label": "D",
+          "text": "Chính cương vắn tắt, Sách lược vắn tắt."
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "18",
+      "id": "321306614",
+      "number": "18",
+      "question": "Hội nghị Ban Chấp hành Trung ương Đảng họp tháng 7-1936 chủ trương thành lập mặt trận nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Mặt trận dân tộc thống nhất phản đế Đông Dương."
+        },
+        {
+          "label": "B",
+          "text": "Mặt trận dân chủ Đông Dương."
+        },
+        {
+          "label": "C",
+          "text": "Mặt trận phản đế đồng minh Đông Dương."
+        },
+        {
+          "label": "D",
+          "text": "Mặt trận nhân dân phản đế Đông Dương"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "19",
+      "id": "321306615",
+      "number": "19",
+      "question": "Ai là người viết tác phẩm \"Tự chỉ trích\"?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Nguyễn Văn Cừ"
+        },
+        {
+          "label": "B",
+          "text": "Hà Huy Tập"
+        },
+        {
+          "label": "C",
+          "text": "Phan Đăng Lưu"
+        },
+        {
+          "label": "D",
+          "text": "Lê Hồng Phong"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "20",
+      "id": "321306616",
+      "number": "20",
+      "question": "Chủ trương chiến lược cách mạng mới của Đảng được đề ra bắt đầu từ Hội nghị Trung ương nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hội nghị Trung ương 6 tháng 11/1939"
+        },
+        {
+          "label": "B",
+          "text": "Hội nghị Trung ương 9 tháng 3/1945"
+        },
+        {
+          "label": "C",
+          "text": "Hội nghị Trung ương 7 tháng 11/ 1940"
+        },
+        {
+          "label": "D",
+          "text": "Hội nghị Trung ương 8 tháng 5/1941"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "21",
+      "id": "321306617",
+      "number": "21",
+      "question": "Chỉ thị \"Nhật - Pháp bắn nhau và hành động của chúng ta\" đã xác định ai là kẻ thù chính của dân tộc?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Phát xít Nhật"
+        },
+        {
+          "label": "B",
+          "text": "Thực dân Pháp"
+        },
+        {
+          "label": "C",
+          "text": "Phong kiến"
+        },
+        {
+          "label": "D",
+          "text": "Tư sản mại bản"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "original_number": "22",
+      "id": "321306618",
+      "number": "22",
+      "question": "Trong cao trào kháng Nhật cứu nước, phong trào \"Phá kho thóc của Nhật để giải quyết nạn đói\" đã diễn ra mạnh mẽ ở đâu?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Đồng bằng Bắc Bộ"
+        },
+        {
+          "label": "B",
+          "text": "Đồng bằng Nam Bộ"
+        },
+        {
+          "label": "C",
+          "text": "Đồng bằng Trung Bộ"
+        },
+        {
+          "label": "D",
+          "text": "Đồng bằng Bắc Bộ và Bắc Trung Bộ"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "23",
+      "id": "321306619",
+      "number": "23",
+      "question": "Uỷ ban dân tộc giải phóng được thành lập do ai làm chủ tịch?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Trường Chinh"
+        },
+        {
+          "label": "B",
+          "text": "Hồ Chí Minh"
+        },
+        {
+          "label": "C",
+          "text": "Phạm Văn Đồng"
+        },
+        {
+          "label": "D",
+          "text": "Võ Nguyên Giáp"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "24",
+      "id": "321306620",
+      "number": "24",
+      "question": "Đảng Cộng sản Việt Nam ra đời là sản phẩm của sự kết hợp giữa những nhân tố nào?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Chủ nghĩa Mác-Lênin, phong trào công nhân"
+        },
+        {
+          "label": "B",
+          "text": "Chủ nghĩa Mác-Lênin, phong trào yêu nước Việt Nam."
+        },
+        {
+          "label": "C",
+          "text": "Tư tưởng Hồ Chí Minh với phong trào công nhân và phong"
+        },
+        {
+          "label": "D",
+          "text": "Chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh với phong trào công nhân và phong trào yêu nước Việt Nam."
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "25",
+      "id": "321306621",
+      "number": "25",
+      "question": "Đại hội đại biểu lần thứ nhất của Đảng họp ở Ma Cao (3/1935) có ý nghĩa gì?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Sự tan rã của chế độ phong kiến Việt Nam"
+        },
+        {
+          "label": "B",
+          "text": "Sự trưởng thành vượt bậc của Đảng"
+        },
+        {
+          "label": "C",
+          "text": "Sự phát triển của phong trào giải phóng dân tộc"
+        },
+        {
+          "label": "D",
+          "text": "Sự phục hồi hệ thống tổ chức của Đảng và phong trào cách mạng quần chúng, tạo điều kiện để bước vào một cao trào cách mạng mới."
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "26",
+      "id": "321306622",
+      "number": "26",
+      "question": "Quốc tế Cộng sản họp Đại hội VII tại Mátxcơva (Liên Xô) (7-1935), xác định kẻ thù nguy hiểm trước mắt của nhân dân thế giới là?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Phong kiến"
+        },
+        {
+          "label": "B",
+          "text": "Chủ nghĩa phát xít"
+        },
+        {
+          "label": "C",
+          "text": "Chủ nghĩa đế quốc"
+        },
+        {
+          "label": "D",
+          "text": "Chủ nghĩa thực dân"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "original_number": "27",
+      "id": "321306623",
+      "number": "27",
+      "question": "Văn kiện nào sau đây Đảng nêu quan điểm: “Cuộc dân tộc giải phóng không nhất thiết phải kết chặt với cuộc cách mạng điền địa Nghĩa là không thể nói rằng: muốn đánh đổ đế quốc cần phải phát triển cách mạng điền địa, muốn giải quyết vấn đề điền địa thì cần phải đánh đổ đế quốc Lý thuyết ấy có chỗ không xác đáng”?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Tự chỉ trích"
+        },
+        {
+          "label": "B",
+          "text": "Đường cách mệnh"
+        },
+        {
+          "label": "C",
+          "text": "Bản án chế độ thực dân Pháp"
+        },
+        {
+          "label": "D",
+          "text": "Chung quanh vấn đề chiến sách mới (tháng 10-1936)"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "original_number": "28",
+      "id": "321306624",
+      "number": "28",
+      "question": "Những khó khăn được ví như “ngàn cân treo sợi tóc” là nói về giai đoạn nào của cách mạng Việt Nam?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Giai đoạn 1946 – 1954."
+        },
+        {
+          "label": "B",
+          "text": "Giai đoạn 1954 – 1975."
+        },
+        {
+          "label": "C",
+          "text": "Giai đoạn 1945 – 1946."
+        },
+        {
+          "label": "D",
+          "text": "Giai đoạn 1930 – 1945."
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "29",
+      "id": "321306625",
+      "number": "29",
+      "question": "Thuận lợi của tình hình trong nước sau cuộc Cách mạng Tháng Tám năm 1945 là nội dung nào sau đây?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Hệ thống chính quyền cách mạng mới được thiết lập, còn rất non trẻ, thiếu thốn, yếu kém về nhiều mặt."
+        },
+        {
+          "label": "B",
+          "text": "Do lợi ích cục bộ của mình, các nước lớn, không có nước nào ủng hộ lập trường độc lập và công nhận địa vị pháp lý của Nhà nước Việt Nam Dân chủ Cộng hòa"
+        },
+        {
+          "label": "C",
+          "text": "Hình thành hệ thống chính quyền cách mạng với bộ máy thống nhất từ cấp Trung ương đến cơ sở, ra sức phục vụ lợi ích của Tổ quốc, nhân dân."
+        },
+        {
+          "label": "D",
+          "text": "Phong trào giải phóng dân tộc ở các nước thuộc địa châu Á, châu Phi và khu vực Mỹ Latinh dâng cao."
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "original_number": "30",
+      "id": "321306626",
+      "number": "30",
+      "question": "Khó khăn của tình hình thế giới đã tác động đến Việt Nam sau Cách mạng Tháng Tám năm 1945 là nội dung nào sau đây?",
+      "answers": [
+        {
+          "label": "A",
+          "text": "Các thế lực phản động chống phá."
+        },
+        {
+          "label": "B",
+          "text": "Không có nước nào ủng hộ lập trường độc lập và công nhận địa vị pháp lý của Nhà nước Việt Nam Dân chủ Cộng hòa"
+        },
+        {
+          "label": "C",
+          "text": "Cục diện khu vực và thế giới có những sự thay đổi lớn có lợi cho cách mạng Việt Nam."
+        },
+        {
+          "label": "D",
+          "text": "Hệ thống chính quyền cách mạng mới được thiết lập, còn rất non trẻ, thiếu thốn, yếu kém về nhiều mặt."
+        }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}
